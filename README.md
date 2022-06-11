@@ -1,7 +1,7 @@
-# Title of your project
+# Telecom customer's churn using machine learning
 
 
-# Summary
+## Summary
 
 **Motivation:** As part of my data science bootcamps projects, we intent to perform "customer churn modeling" for company within the telecom industry
 <br />
@@ -16,32 +16,43 @@
 <br />- Test if customer's location has any impact on customer's behaviour
 <br />- Test if manipulating correlated features will have impact on customer's behaviour and subsequently churning rate
 <br />- Expand more on hyperparameter tuning
-<br />**Structure of the document:** if the document is getting big, outline the structure and explain the different parts
-<br />
-# Introduction
+<br />- Expand more on feature importance and selection
+<br />![img!](feature_importance.JPG)
+
+
+## Introduction
 The approach was as following
 
-Here is an example of including images:
-
 ![img!](approach.JPG)
-![Alt text!](/approach.jpg?raw=true "Optional Title")
 
 
-# Part 1 Title
-Ideally, your work should be broken down into several parts so that it's easier to have a global view of the work you have done
 
-# Part 2 Title
+## Models tested
+The following Machine learning models were tested:
 
-# Part 3 Title
+<br />- Logistic Regression
+<br />- SVM
+<br />- KNN
+<br />- RandomForest
+<br />- AdaBoost
+<br />- Gradient Boost
+<br />- Decision Tree
+<br />- XGBoost
+<br />- PyCaret classification module
 
-# Conclusion & Recommendations
 
-write a paragraph on the main results of your work.
 
-write a paragraph on what should be done (further study, or actions...)
+## Model chosen:
 
-# References
+Logistic Regression with the following results:
 
-- [this is a first link](https://www.google.com/)
-- [this is another link](https://www.google.com/)
-- [this is a third link](https://www.google.com/)
+![img!](confusion_matrix.JPG)
+<br />![img!](classification_report.JPG)
+<br />![img!](roc_curve.JPG)
+
+
+
+## Business Case clarification:
+![img!](business_case.JPG)
+
+
