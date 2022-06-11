@@ -24,6 +24,8 @@ The approach was as following
 Here is an example of including images:
 
 ![img](approach.jpg)
+![Alt text](approach.jpg?raw=true "Optional Title")
+
 
 # Part 1 Title
 Ideally, your work should be broken down into several parts so that it's easier to have a global view of the work you have done
