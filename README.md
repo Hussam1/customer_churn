@@ -23,7 +23,7 @@ The approach was as following
 
 Here is an example of including images:
 
-![img](img/approach.jpg)
+![img](approach.jpg)
 
 # Part 1 Title
 Ideally, your work should be broken down into several parts so that it's easier to have a global view of the work you have done
