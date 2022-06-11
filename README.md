@@ -17,13 +17,13 @@
 <br />- Test if manipulating correlated features will have impact on customer's behaviour and subsequently churning rate
 <br />- Expand more on hyperparameter tuning
 <br />- Expand more on feature importance and selection
-<br />![img!](feature_importance.JPG)
+<br />![img!](img/feature_importance.jpg)
 
 
 ## Introduction
 The approach was as following
 
-![img!](approach.JPG)
+![img!](img/approach.JPG)
 
 
 
@@ -46,13 +46,13 @@ The following Machine learning models were tested:
 
 Logistic Regression with the following results:
 
-![img!](confusion_matrix.JPG)
-<br />![img!](classification_report.JPG)
-<br />![img!](roc_curve.JPG)
+![img!](img/confusion_matrix.jpg)
+<br />![img!](img/classification_report.jpg)
+<br />![img!](img/roc_curve.jpg)
 
 
 
 ## Business Case clarification:
-![img!](business_case.JPG)
+![img!](img/business_case.JPG)
 
 
