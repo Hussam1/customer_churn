@@ -24,7 +24,7 @@ The approach was as following
 Here is an example of including images:
 
 ![img](approach.jpg)
-![Alt text](approach.jpg?raw=true "Optional Title")
+![Alt text](/approach.jpg?raw=true "Optional Title")
 
 
 # Part 1 Title
