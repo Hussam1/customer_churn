@@ -23,7 +23,7 @@
 ## Introduction
 The approach was as following
 
-![img!](approach.JPG)
+![img!](img/approach.JPG)
 
 
 
